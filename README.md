@@ -1,6 +1,6 @@
 # YouTube ETL Pipeline
 
-An ETL and analytics pipeline that consolidates live YouTube trending data with hitorical trending records, enabling the monitoring of what's currently trending in the United States, category anomolies, and distinguishing short-term spikes from new trends. 
+An ETL and analytics pipeline that consolidates live YouTube trending data with historical trending records, enabling the monitoring of what's currently trending in the United States, category anomalies, and distinguishing short-term spikes from new trends.
 
 
 ## Overview
